@@ -23,7 +23,9 @@ $ ./bin/zeoserver start # Zope Enterprise Objects Database Server
 $ ./bin/instance fg # Zope instance, foreground mode
 
 * Point your webbrowser to http://localhost:8080/ (username admin,
-  password admin) and install a Plone instance.
+  password admin)
+* Add a ZODB Mount Point (iaem is already configured) and enter the folder
+* Install a Plone instance.
 
 
 References
